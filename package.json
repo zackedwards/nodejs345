@@ -1,0 +1,29 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node.js and express REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackedwards/nodejs345.git"
+  },
+  "keywords": [
+    "first",
+    "app"
+  ],
+  "author": "Zack Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zackedwards/nodejs345/issues"
+  },
+  "homepage": "https://github.com/zackedwards/nodejs345#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
